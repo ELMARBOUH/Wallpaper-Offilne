@@ -1,0 +1,27 @@
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-6420027936185714/4351484101</string>
+
+    <string name="app_name">Обои на стену</string>
+    <string name="favorites_wallpapers">Избранные</string>
+    <string name="share">Поделиться</string>
+    <string name="set_image_as">Установить изображение как</string>
+    <string name="rate_app">Оцените это приложение</string>
+    <string name="about">Около</string>
+    <string name="close">Выйти</string>
+    <string name="add_to_favorite_folder">Добавить в избранное</string>
+    <string name="remove_of_favorite_folder">Удалить из избранного</string>
+    <string name="show_favorite_folder">Показать только избранное</string>
+    <string name="hide_favorite_folder">Показать все обои</string>
+    <string name="about_content"><b>Обои на стену v1.0</b>, связаться с: <i> jlab.apps@gmail.com</i></string>
+    <string name="accept">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="contact">Cвязаться</string>
+    <string name="app_mail_not_found">У вас нет приложения электронной почты.</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="can_not_share_wallpaper">Не удается завершить действие «Поделиться»</string>
+    <string name="can_not_set_as_image">Не удается выполнить действие «Установить как»</string>
+    <string name="provide_permissions">Предоставить разрешение на запись в локальное хранилище</string>
+    <string name="can_not_save_image">Не удается сохранить обои в хранилище</string>
+    <string name="save_complete">Обои были сохранены правильно</string>
+    <string name="save">Сохранить</string>
+</resources>

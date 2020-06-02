@@ -1,0 +1,27 @@
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-6420027936185714/4351484101</string>
+
+    <string name="app_name">Fondos de Pantalla</string>
+    <string name="favorites_wallpapers">Favoritos</string>
+    <string name="share">Compartir</string>
+    <string name="set_image_as">Establecer imagen como</string>
+    <string name="rate_app">Calificar esta app</string>
+    <string name="about">Acerca de</string>
+    <string name="close">Cerrar</string>
+    <string name="add_to_favorite_folder">Añadir a Favoritos</string>
+    <string name="remove_of_favorite_folder">Eliminar de Favoritos</string>
+    <string name="show_favorite_folder">Mostrar Favoritos</string>
+    <string name="hide_favorite_folder">Mostrar todos los Fondos</string>
+    <string name="about_content"><b>Fondos de Pantalla v1.0</b>, contactar a: <i> jlab.apps@gmail.com</i></string>
+    <string name="accept">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="contact">Contactar</string>
+    <string name="app_mail_not_found">No se encuentra una aplicación de email.</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="can_not_share_wallpaper">No se puede completar la acción de "Compartir"</string>
+    <string name="can_not_set_as_image">No se puede completar la acción de "Establecer imagen como"</string>
+    <string name="provide_permissions">Proporcione los Permisos para escribir en Almacenamiento Local</string>
+    <string name="can_not_save_image">No se puede guardar la imagen en el Almacenamiento</string>
+    <string name="save_complete">La imagen fue guardada correctamente</string>
+    <string name="save">Guardar</string>
+</resources>

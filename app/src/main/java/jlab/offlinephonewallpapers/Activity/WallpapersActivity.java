@@ -1,6 +1,10 @@
 package jlab.offlinephonewallpapers.Activity;
 
+import android.content.Context;
 import android.content.DialogInterface;
+import android.os.Build;
+import android.os.VibrationEffect;
+import android.os.Vibrator;
 import android.support.v7.app.AlertDialog;
 import android.view.Menu;
 import android.view.View;
@@ -179,6 +183,7 @@ public class WallpapersActivity extends AppCompatActivity {
                             }
                         }
                     }).show();
+            vibrate();
             dispatched = false;
         }
     }
@@ -262,6 +267,21 @@ public class WallpapersActivity extends AppCompatActivity {
                 ? R.string.hide_favorite_folder
                 : R.string.show_favorite_folder);
         return true;
+    }
+
+    private void vibrate() {
+        try {
+            Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+            // vibrate for 500 milliseconds
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                v.vibrate(VibrationEffect.createOneShot(50, VibrationEffect.DEFAULT_AMPLITUDE));
+            } else {
+                //deprecated in API 26
+                v.vibrate(50);
+            }
+        } catch (Exception ignored) {
+            ignored.printStackTrace();
+        }
     }
 
     @Override

@@ -1,0 +1,27 @@
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-6420027936185714/4351484101</string>
+
+    <string name="app_name">वॉलपेपर</string>
+    <string name="favorites_wallpapers">पसंदीदा</string>
+    <string name="share">शेयर</string>
+    <string name="set_image_as">चित्र के रूप में सेट करें</string>
+    <string name="rate_app">इस ऐप्लिकेशन को रेट करे</string>
+    <string name="about">के बारे में</string>
+    <string name="close">बंद करे</string>
+    <string name="add_to_favorite_folder">पसंदीदा में जोड़े</string>
+    <string name="remove_of_favorite_folder">पसंदीदा से निकालें</string>
+    <string name="show_favorite_folder">केवल पसंदीदा दिखाएँ</string>
+    <string name="hide_favorite_folder">सभी वॉलपेपर दिखाएं</string>
+    <string name="about_content"><b>वॉलपेपर v1.0</b>, संपर्क : <i> jlab.apps@gmail.com</i></string>
+    <string name="accept">मंजूर करना</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="contact">संपर्क करें</string>
+    <string name="app_mail_not_found">आपके पास ईमेल एप्लिकेशन नहीं है.</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="can_not_share_wallpaper">"शेयर" क्रिया को पूरा नहीं कर सकता</string>
+    <string name="can_not_set_as_image">कार्रवाई पूरी नहीं की जा सकती</string>
+    <string name="provide_permissions">स्थानीय संग्रहण में लिखने की अनुमति प्रदान करें</string>
+    <string name="can_not_save_image">वॉलपेपर को स्टोरेज में नहीं सहेज सकते</string>
+    <string name="save_complete">वॉलपेपर सही ढंग से सहेजा गया था</string>
+    <string name="save">सहेजें</string>
+</resources>
