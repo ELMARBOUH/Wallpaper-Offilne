@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="jlab.offlinephonewallpapers.Activity.WallpapersActivity">
+    <item android:id="@+id/mnFavorite"
+        android:orderInCategory="100"
+        android:title=""
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/mnRateApp"
+        android:orderInCategory="100"
+        android:title="@string/rate_app"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnAbout"
+        android:orderInCategory="100"
+        android:title="@string/about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnClose"
+        android:orderInCategory="100"
+        android:title="@string/close"
+        app:showAsAction="never" />
+</menu>
