@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import jlab.offlinephonewallpapers.R;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import jlab.offlinephonewallpapers.Activity.Utils.WallpaperManager;
 
 /**

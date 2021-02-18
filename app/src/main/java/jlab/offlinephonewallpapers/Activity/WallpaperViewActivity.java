@@ -13,11 +13,11 @@ import android.view.LayoutInflater;
 
 import jlab.offlinephonewallpapers.Activity.Utils.WallpapersAdapter;
 import jlab.offlinephonewallpapers.R;
-import android.support.v7.widget.Toolbar;
-import android.support.annotation.NonNull;
+import androidx.appcompat.widget.Toolbar;
+import androidx.annotation.NonNull;
 import android.view.animation.AnimationUtils;
-import android.support.v7.app.AppCompatActivity;
-import android.support.design.widget.AppBarLayout;
+import androidx.appcompat.app.AppCompatActivity;
+import com.google.android.material.appbar.AppBarLayout;
 
 import java.util.ArrayList;
 

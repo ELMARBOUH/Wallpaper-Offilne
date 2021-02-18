@@ -5,7 +5,7 @@ import android.content.DialogInterface;
 import android.os.Build;
 import android.os.VibrationEffect;
 import android.os.Vibrator;
-import android.support.v7.app.AlertDialog;
+import androidx.appcompat.app.AlertDialog;
 import android.view.Menu;
 import android.view.View;
 import android.os.Bundle;
@@ -25,7 +25,7 @@ import jlab.offlinephonewallpapers.Activity.Utils.WallpapersAdapter;
 import jlab.offlinephonewallpapers.R;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.AdRequest;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import jlab.offlinephonewallpapers.Activity.Utils.Utils;
 import jlab.offlinephonewallpapers.Activity.Utils.Wallpaper;
 

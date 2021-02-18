@@ -4,9 +4,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.content.Context;
 import android.widget.ArrayAdapter;
-import android.support.annotation.NonNull;
-import jlab.offlinephonewallpapers.Activity.Utils.Wallpaper;
-import jlab.offlinephonewallpapers.Activity.Utils.WallpaperManager;
+import androidx.annotation.NonNull;
 
 /*
  * Created by Javier on 1/10/2016.

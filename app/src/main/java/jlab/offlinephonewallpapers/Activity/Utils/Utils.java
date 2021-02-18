@@ -14,19 +14,17 @@ import android.media.MediaScannerConnection;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Environment;
-import android.support.design.widget.Snackbar;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.content.ContextCompat;
-import android.support.v4.provider.DocumentFile;
+import com.google.android.material.snackbar.Snackbar;
+import androidx.core.app.ActivityCompat;
+import androidx.core.content.ContextCompat;
+import androidx.documentfile.provider.DocumentFile;
 import android.view.View;
-import android.widget.Gallery;
 import android.widget.TextView;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.util.ArrayList;
 
-import jlab.offlinephonewallpapers.Activity.WallpaperViewActivity;
 import jlab.offlinephonewallpapers.R;
 
 public class Utils {
